@@ -15,6 +15,8 @@ sidebarType: 1
 
 Rayn is a privacy preserving, data platform. We turn content into context, into audiences. For Personalisation, Monetisation and Insights. This module reads contextual categories and audience cohorts from RaynJS (via localStorage) and passes them to the bid-stream.
 
+For best results, we recommend that you deploy RaynJS on your properties, as instructed in the Rayn implementation guide. RaynJS will ensure that your auctions contain Rayn data. Please reach out to [support@rayn.io](mailto:support@rayn.io) if you have any questions.
+
 ## Integration
 
 To install the module, follow these instructions:
